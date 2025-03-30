@@ -4,10 +4,10 @@ An intelligent document-based chatbot powered by Retrieval-Augmented Generation 
 
 ✨ What It Does
 
-Loads and processes multiple PDF files using RAG, combining semantic search with generative AI.
+- Loads and processes multiple PDF files using RAG, combining semantic search with generative AI.
 
-Transforms PDF content into vector embeddings with Sentence Transformers and stores them in a Chroma vector database for efficient retrieval.
+- Transforms PDF content into vector embeddings with Sentence Transformers and stores them in a Chroma vector database for efficient retrieval.
 
-Utilizes Gemini LLM via LangChain to generate accurate, context-aware responses.
+- Uses Gemini LLM via LangChain to generate accurate, context-aware responses.
 
-Detects and translates non-English questions automatically.
+- Detects and translates non-English questions automatically.

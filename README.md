@@ -1,4 +1,5 @@
 LangChain ChatBot 🤖📚
+
 An intelligent document-based chatbot powered by Retrieval-Augmented Generation (RAG) that allows users to query PDF documents in natural language.
 
 ✨ What It Does
